@@ -15,5 +15,5 @@ Aquest repositori conté el desenvolupament d'un sistema de Deep Learning per pr
 ## Estat Actual
 - [x] Definició de la metodologia (3 pilars).
 - [x] Model Baseline (Regressió Lineal 01).
-- [ ] Integració de dades climàtiques (Climate Ready BCN).
-- [ ] Implementació de Xarxa Neuronal (MLP).
+- [x] Integració de dades climàtiques (Climate Ready BCN).
+- [x] Implementació de Xarxa Neuronal (MLP).
