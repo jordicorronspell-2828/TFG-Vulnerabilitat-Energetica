@@ -208,5 +208,6 @@ __marimo__/
 #data, pujarà tot el projecte MENYS aquesta carpeta
 data/
 models/
-#*.csv 
-#*.xlsx
+*.csv 
+*.xlsx
+*.joblib
